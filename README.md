@@ -1,6 +1,10 @@
 # music
 基于网易云搭建的音乐播放网页
-http://192.168.0.106:8080/
+
+
+
+
+
 轮播图接口
 (https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=banner)
 
