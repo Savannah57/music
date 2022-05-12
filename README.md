@@ -1,9 +1,6 @@
 # music
 基于网易云搭建的音乐播放网页
-
-
-
-
+别忘记提前安装node_modules
 
 轮播图接口
 (https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=banner)
@@ -14,3 +11,4 @@ flex-direction属性控制主轴的方向，即项目的排列方向。
 　格式： .class {
 　　　　　　flex-direction: row | row-reverse | column | column-reverse;
 　　　　}
+    
