@@ -1,6 +1,6 @@
 # music
 基于网易云搭建的音乐播放网页
-别忘记提前安装node_modules
+
 
 轮播图接口
 (https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=banner)
